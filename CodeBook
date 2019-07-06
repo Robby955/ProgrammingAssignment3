@@ -1,10 +1,10 @@
 
-Descriptions:
+#Descriptions:
 •mean(): Mean value
 
 •std(): Standard deviation
 
-Identifiers
+#Identifiers
 The data we are working with is grouped by the following factors to find the mean value and the standard deviation std()
 
 •subject - The ID of the test subject in question.
